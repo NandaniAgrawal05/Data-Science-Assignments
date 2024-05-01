@@ -31,6 +31,10 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
+## Screenshots of Power Bi Dashboard:
+![Spotify Data Analysis Project](https://github.com/NandaniAgrawal05/Data-Science-Assignments/assets/167891439/f0c320c3-12b5-4aeb-9e14-ab5b74c49576)
+
+
 ## Acknowledgments
 
 Special thanks to contributors and open-source libraries used in these assignments and projects.
